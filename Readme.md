@@ -1,4 +1,7 @@
-1. Install ava as dev
+![ava brand logo](/assets/images/ava.png)
+
+## Ava example & setup guide
+1. Install [ava](https://github.com/avajs/ava) as dev
 ```
 yarn add ava --dev
 ```
